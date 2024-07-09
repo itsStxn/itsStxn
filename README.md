@@ -1,11 +1,9 @@
 ![Full-stack Development](https://media.licdn.com/dms/image/D4E16AQFAu1yG2Qz4VA/profile-displaybackgroundimage-shrink_350_1400/0/1707824791609?e=1726099200&v=beta&t=_igVvI0YaApvBQAnuTVHeTaIfVnSJRaku36-NiSELxE)
 
-## Hi there 👋, I'm Stan
-### Full-stack Development
-
 <div align="center">
-  This text will be centered.
+  ## Hi there 👋, I'm Stan
 </div>
+### Full-stack Development
 
 I am a university student with a deep passion for both art and coding. I love how these two worlds enable us to express ourselves, create virtually anything, and bring our ideas to life.
 
