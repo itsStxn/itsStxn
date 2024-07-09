@@ -10,3 +10,12 @@ My program is called Data Science, Protection & Security, and Data Intelligence.
 
 ### Skills
 C#, REACT, JS, TS, NEXT.JS, PYTHON, PHP, MYSQL, HTML, SASS, TAILWIND 
+
+### About
+- 🔭 I’m currently working on A website to read the digital comics of a dear artist friend 
+- 🌱 I’m currently learning AWS 
+- 📫 How to reach me: Send a mail to heboivan@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsStxn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stanleysandjo/)  
+
