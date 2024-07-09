@@ -15,7 +15,7 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
 ### 💫 About Me:
 - 🔭 I’m currently working on A website to read the digital comics of a dear artist friend 
 - 🌱 I’m currently learning AWS 
-- 📫 How to reach me: Send a mail to heboivan@gmail.com 
+- 📫 How to reach me: <a href="mailto:heboivan@gmail.com">Send me a mail</a>
 
 ---
 ### 🌐 Socials:
