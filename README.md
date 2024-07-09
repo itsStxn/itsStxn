@@ -18,7 +18,7 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
 ---
 
 ### 💫 About Me:
-<div>
+<p>
   <img width="350" src="/assets/programmer.gif" alt="Coding gif" />
   <ul>
     <li>🔭 Currently building a website for reading a friend's digital comics<br/></li>
@@ -26,6 +26,6 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
     <li>📫 How to reach me: <a href="mailto:heboivan@gmail.com">Send me a mail</a><br/></li>
     <li>🔎 Social: Check out my <a href="https://www.linkedin.com/in/stanleysandjo/">LinkedIn profile</a><br/></li>
   </ul>
-</div>
+</p>
 
 
