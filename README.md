@@ -17,8 +17,8 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
 
 ---
 
-### 💫 About Me:
 <p>
+  <h2>💫 About Me:</h2>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
   - 🔭 Currently building a website for reading a friend's digital comics<br/>
