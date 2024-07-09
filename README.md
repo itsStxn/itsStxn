@@ -10,6 +10,8 @@ I am a university student with a deep passion for both art and coding. I love ho
 
 I am enrolled in a program called Data Science, Protection & Security, and Data Intelligence. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
 
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+
 --- 
 
 ### 🌐 Tech Stack:
