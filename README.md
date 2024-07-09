@@ -19,11 +19,11 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
 
 ### 💫 About Me:
 <p>
-  - 🔭 I’m currently working on A website to read the digital comics of a dear artist friend 
-  - 🌱 I’m currently learning AWS 
-  - 📫 How to reach me: <a href="mailto:heboivan@gmail.com">Send me a mail</a>
-  - 🔎 Social: Check out my <a href="https://www.linkedin.com/in/stanleysandjo/">LinkedIn profile</a>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  - 🔭 I’m currently working on A website to read the digital comics of a dear artist friend<br/>
+  - 🌱 I’m currently learning AWS<br/> 
+  - 📫 How to reach me: <a href="mailto:heboivan@gmail.com">Send me a mail</a><br/>
+  - 🔎 Social: Check out my <a href="https://www.linkedin.com/in/stanleysandjo/">LinkedIn profile</a><br/>
 </p>
 
 
