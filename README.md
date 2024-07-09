@@ -3,6 +3,7 @@
 <h1 align="center">
   Hi there 👋, I'm Stan
 </h1>
+
 ### Full-stack Development
 
 I am a university student with a deep passion for both art and coding. I love how these two worlds enable us to express ourselves, create virtually anything, and bring our ideas to life.
