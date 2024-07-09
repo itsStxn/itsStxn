@@ -3,6 +3,10 @@
 ## Hi there 👋, I'm Stan
 ### Full-stack Development
 
+<div align="center">
+  This text will be centered.
+</div>
+
 I am a university student with a deep passion for both art and coding. I love how these two worlds enable us to express ourselves, create virtually anything, and bring our ideas to life.
 
 I am enrolled in a program called Data Science, Protection & Security, and Data Intelligence. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
