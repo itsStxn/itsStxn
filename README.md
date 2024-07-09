@@ -22,7 +22,7 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on a website to read the digital comics of a dear artist friend<br/></li>
+        <li>🔭 Currently building a website for reading a friend's digital comics<br/></li>
         <li>🌱 I’m currently learning AWS<br/> </li>
         <li>📫 How to reach me: <a href="mailto:heboivan@gmail.com">Send me a mail</a><br/></li>
         <li>🔎 Social: Check out my <a href="https://www.linkedin.com/in/stanleysandjo/">LinkedIn profile</a><br/></li>
