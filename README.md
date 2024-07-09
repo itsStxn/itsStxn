@@ -21,12 +21,12 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
 <table>
   <tr>
     <td>
-      <p>
-        - 🔭 I’m currently working on a website to read the digital comics of a dear artist friend<br/>
-        - 🌱 I’m currently learning AWS<br/> 
-        - 📫 How to reach me: <a href="mailto:heboivan@gmail.com">Send me a mail</a><br/>
-        - 🔎 Social: Check out my <a href="https://www.linkedin.com/in/stanleysandjo/">LinkedIn profile</a><br/>
-      </p>
+      <ul>
+        <li>🔭 I’m currently working on a website to read the digital comics of a dear artist friend<br/></li>
+        <li>🌱 I’m currently learning AWS<br/> </li>
+        <li>📫 How to reach me: <a href="mailto:heboivan@gmail.com">Send me a mail</a><br/></li>
+        <li>🔎 Social: Check out my <a href="https://www.linkedin.com/in/stanleysandjo/">LinkedIn profile</a><br/></li>
+      </ul>
     </td>
     <td>
       <img width="350" src="/assets/programmer.gif" alt="Coding gif" />
