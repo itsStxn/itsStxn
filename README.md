@@ -8,7 +8,6 @@ I love how both worlds allow to express ourselves and create virtually anything 
 
 My program is called Data Science, Protection & Security, and Data Intelligence. It is very broad, but mainly teaches full stack development, data engineering, and cybersecurity.  
 
-
 ### 🌐 Socials:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsStxn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stanleysandjo/)  
 
