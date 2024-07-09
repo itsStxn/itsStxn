@@ -1,7 +1,7 @@
 ![Full-stack Development](https://media.licdn.com/dms/image/D4E16AQFAu1yG2Qz4VA/profile-displaybackgroundimage-shrink_350_1400/0/1707824791609?e=1726099200&v=beta&t=_igVvI0YaApvBQAnuTVHeTaIfVnSJRaku36-NiSELxE)
 
 <h1 align="center">
-  Hi there 👋, I'm Stan
+  Hi there☕, I'm Stan
 </h1>
 
 ### 💻 Full-stack Development
