@@ -3,10 +3,9 @@
 ## Hi there 👋, I'm Stan
 ### Full-stack Development
 
-I am a university student with a strong passion for art and coding.
-I love how both worlds allow to express ourselves and create virtually anything and give life to our ideas.
+I am a university student with a deep passion for both art and coding. I love how these two worlds enable us to express ourselves, create virtually anything, and bring our ideas to life.
 
-My program is called Data Science, Protection & Security, and Data Intelligence. It is very broad, but mainly teaches full stack development, data engineering, and cybersecurity.  
+I am enrolled in a program called Data Science, Protection & Security, and Data Intelligence. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
 
 --- 
 ### 💻 Tech Stack:
