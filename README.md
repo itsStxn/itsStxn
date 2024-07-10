@@ -1,6 +1,6 @@
 ![Full-stack Development](https://media.licdn.com/dms/image/D4E16AQFAu1yG2Qz4VA/profile-displaybackgroundimage-shrink_350_1400/0/1707824791609?e=1726099200&v=beta&t=_igVvI0YaApvBQAnuTVHeTaIfVnSJRaku36-NiSELxE)
 
-<img aligh="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsStxn.itsStxn" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsStxn.itsStxn" />
 
 <h1 align="center">
   ⚡️Hi there, I'm Stan — Brewing code and coffee☕
