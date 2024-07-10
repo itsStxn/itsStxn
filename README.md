@@ -3,8 +3,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsStxn.itsStxn" />
 
 <h1 align="center">
-  ⚡️Hi there, I'm Stan — Brewing code and coffee☕
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚡Hi+there,+I'm+Stan;Second+line+of+text" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚡Hi+there,+I'm+Stan⚡;I+brew+code+and+coffee☕" />
 </h1>
 
 ### 💻 Full-stack Development
