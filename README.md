@@ -1,4 +1,5 @@
-![Full-stack Development](https://media.licdn.com/dms/image/D4E16AQFAu1yG2Qz4VA/profile-displaybackgroundimage-shrink_350_1400/0/1707824791609?e=1726099200&v=beta&t=_igVvI0YaApvBQAnuTVHeTaIfVnSJRaku36-NiSELxE)
+<img align="right" width="350" src="/assets/banner.png" alt="Banner" />
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚡Hi+there,+I'm+Stan⚡;I+brew+code+and+coffee☕" />
