@@ -17,8 +17,6 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
 
 ###
 
-<img src="https://raw.githubusercontent.com/itsStxn/itsStxn/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ### 💫 About Me:
