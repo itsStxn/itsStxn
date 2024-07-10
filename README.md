@@ -1,4 +1,4 @@
-<div>
+<div align="center">
   <img height="200" src="/assets/banner.png" alt="Banner" />
 </div>
 
