@@ -12,6 +12,15 @@ I am a university student with a deep passion for both art and coding. I love ho
 
 I am enrolled in a program called Data Science, Protection & Security, and Data Intelligence. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
 
+<div align="center">
+  <a href="mailto:heboivan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/stanleysandjo/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
 ---
 
 ### 🌐 Tech Stack:
@@ -24,6 +33,4 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   - 🔭 Currently building a website for reading a friend's digital comics<br/>
   - 🌱 I’m currently learning AWS<br/>
-  - 📫 How to reach me: <a href="mailto:heboivan@gmail.com">Send me a mail</a><br/>
-  - 🔎 Social: Check out my <a href="https://www.linkedin.com/in/stanleysandjo/">LinkedIn profile</a><br/>
 </p>
