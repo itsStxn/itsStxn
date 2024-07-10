@@ -2,10 +2,9 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=itsStxn.itsStxn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 <h1 align="center">
   ⚡️Hi there, I'm Stan — Brewing code and coffee☕
+  <img src="https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text" />
 </h1>
 
 ### 💻 Full-stack Development
