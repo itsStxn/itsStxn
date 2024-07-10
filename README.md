@@ -1,4 +1,6 @@
-<img align="center" height="200" src="/assets/banner.png" alt="Banner" />
+<div>
+  <img height="200" src="/assets/banner.png" alt="Banner" />
+</div>
 
 <br/>
 <h1 align="center">
