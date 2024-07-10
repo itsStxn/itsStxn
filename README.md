@@ -1,6 +1,6 @@
-<img align="right" height="250" src="/assets/banner.png" alt="Banner" />
+<img align="right" height="200" src="/assets/banner.png" alt="Banner" />
 
-
+<br/>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚡Hi+there,+I'm+Stan⚡;I+brew+code+and+coffee☕" />
 </h1>
