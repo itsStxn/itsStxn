@@ -5,13 +5,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=⚡Hi+there,+I'm+Stan⚡;I+brew+code+and+coffee☕" />
 </h1>
-
-### 💻 Full-stack Development
-
-I am a university student with a deep passion for both art and coding. I love how these two worlds enable us to express ourselves, create virtually anything, and bring our ideas to life.
-
-I am enrolled in a program called Data Science, Protection & Security, and Data Intelligence. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
-
 <div align="center">
   <a href="mailto:heboivan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" />
@@ -21,6 +14,12 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
+
+### 💻 Full-stack Development
+
+I am a university student with a deep passion for both art and coding. I love how these two worlds enable us to express ourselves, create virtually anything, and bring our ideas to life.
+
+I am enrolled in a program called Data Science, Protection & Security, and Data Intelligence. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
 
 ---
 
