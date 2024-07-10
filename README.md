@@ -1,4 +1,4 @@
-<img align="right" width="350" src="/assets/banner.png" alt="Banner" />
+<img align="right" height="250" src="/assets/banner.png" alt="Banner" />
 
 
 <h1 align="center">
