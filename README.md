@@ -49,7 +49,7 @@ I am enrolled in a program called Data Science, Protection & Security, and Data 
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   - 🔭 Currently building a website for reading a friend's digital comics<br/>
   - 🌱 I’m currently learning AWS<br/>
-  - 🎨 I love art, comics, and manga
-  - 🏀 I love basketball, and yes... Kobe is in the GOAT convo
+  - 🎨 I love art, comics, and manga<br/>
+  - 🏀 I love basketball, and yes... Kobe is in the GOAT convo<br/>
   - ⚡ Fun fact: The human brain has more neural connections than there are stars in the observable universe! Yes, you are amazing 🌌🧠<br/>
 </p>
