@@ -5,8 +5,7 @@
 <h1 align="center">
   ⚡️Hi there, I'm Stan — Brewing code and coffee☕
   <img src="https://readme-typing-svg.demolab.com/?
-    font=Righteous&size=35&center=true&vCenter=true&width&500&height=70&duration=4000
-    &lines=First+line+of+text;Second+line+of+text" />
+    font=Righteous&size=35&center=true&vCenter=true&width&500&height=70&duration=4000&lines=First+line+of+text;Second+line+of+text" />
 </h1>
 
 ### 💻 Full-stack Development
