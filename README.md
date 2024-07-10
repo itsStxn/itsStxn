@@ -10,7 +10,7 @@ I am a university student with a deep passion for both art and coding. I love ho
 
 I am enrolled in a program called Data Science, Protection & Security, and Data Intelligence. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
