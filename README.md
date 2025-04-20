@@ -36,13 +36,13 @@ I am enrolled in a program called Data Science, Protection & Security. This comp
   <br/>
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/itsStxn/itsStxn/output/github-contribution-grid-snake.svg" />
 </div>
--->
 
 <h2 align="center">📊 Stats</h2>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=itsStxn&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=itsStxn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>  
+-->
 
 ---
 
