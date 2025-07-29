@@ -20,9 +20,9 @@
 
 ### 💻 Full-stack Development
 
-I am a university student with a deep passion for art and coding. I love how these two worlds allow us to express ourselves and bring our ideas to life.
+I am a bachelor graduate with a deep passion for art and coding. I love how these two worlds allow us to express ourselves and bring our ideas to life.
 
-I am enrolled in a program called Data Science, Protection & Security. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
+I studied in a program called Data Science, Protection & Security. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
 
 ---
 
@@ -50,8 +50,7 @@ I am enrolled in a program called Data Science, Protection & Security. This comp
 <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   - 🔭 Currently building a website for reading a friend's digital comics<br/>
-  - 🌱 I’m currently learning Azure<br/><br/>
   - 🎨 I love art, comics, and manga<br/>
-  - 🏀 I love basketball. Kobe and D. Rose are my favorite players<br/>
+  - 🏀 I love basketball, I am a huge NBA fan<br/>
   - 😜 Fun fact: The human brain has more neural connections than there are stars in the observable universe! Yes, you are amazing 🌌🧠<br/>
 </p>
