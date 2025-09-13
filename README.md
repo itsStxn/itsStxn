@@ -18,7 +18,7 @@
   </a>
 </div>
 
-### 💻 Full-stack Development
+### 💻 Who am I
 
 I’m a Bachelor’s graduate with a passion for both coding and art — two disciplines that let me create, express ideas, and bring concepts to life.
 
