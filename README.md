@@ -20,9 +20,9 @@
 
 ### 💻 Full-stack Development
 
-I am a bachelor graduate with a deep passion for art and coding. I love how these two worlds allow us to express ourselves and bring our ideas to life.
+I’m a Bachelor’s graduate with a passion for both coding and art — two disciplines that let me create, express ideas, and bring concepts to life.
 
-I studied in a program called Data Science, Protection & Security. This comprehensive program primarily focuses on full stack development, data engineering, and cybersecurity.
+I studied Data Science, Protection & Security, a program that gave me a solid foundation in full-stack development, data engineering, and cybersecurity. This blend of technical depth and creative problem-solving drives how I approach every project I work on.
 
 ---
 
@@ -49,7 +49,6 @@ I studied in a program called Data Science, Protection & Security. This comprehe
 ### 💫 About Me:
 <p>
   <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  - 🔭 Currently building a website for reading a friend's digital comics<br/>
   - 🎨 I love art, comics, and manga<br/>
   - 🏀 I love basketball, I am a huge NBA fan<br/>
   - 😜 Fun fact: The human brain has more neural connections than there are stars in the observable universe! Yes, you are amazing 🌌🧠<br/>
