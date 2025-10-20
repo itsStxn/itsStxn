@@ -20,9 +20,9 @@
 
 ### 💻 Who am I?
 
-I’m a Bachelor’s graduate with a passion for both coding and art — two disciplines that let me create, express ideas, and bring concepts to life.
+I’m a Bachelor’s graduate with a passion for both technology and art — two worlds that let me build, express, and innovate.
 
-I studied Data Science, Protection & Security, a program that gave me a solid foundation in full-stack development, data engineering, and cybersecurity. This blend of technical depth and creative problem-solving drives how I approach every project I work on.
+I hold a degree in Information Management, specialized in Data Science, Protection & Security. My studies gave me a foundation in full-stack development, machine learning, data engineering, and cybersecurity. I love turning ideas into impactful solutions that blend technical precision with creative problem-solving, whether I’m designing a system, writing code, or crafting an interface.
 
 ---
 
