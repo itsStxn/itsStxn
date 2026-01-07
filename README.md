@@ -18,11 +18,23 @@
   </a>
 </div>
 
-### 💻 Who am I?
+## Me.Describe()
+I’m an IT grad with a strong interest in turning complex problems into practical, reliable solutions.
 
-I’m a Bachelor’s graduate with a passion for both technology and art — two worlds that let me build, express, and innovate.
+## Me.Studies.Describe()
+I hold a degree in Information Management, specialized in "*Data Science, Protection & Security*".
 
-I hold a degree in Information Management, specialized in Data Science, Protection & Security. My studies gave me a foundation in full-stack development, machine learning, data engineering, and cybersecurity. I love turning ideas into impactful solutions that blend technical precision with creative problem-solving, whether I’m designing a system, writing code, or crafting an interface.
+My academic background spans **full-stack development**, **machine learning**, **networking**, **data engineering**, and **security**, with a strong focus on how modern systems are designed, operated, and protected at scale.
+
+## Me.WorkStyle.Describe()
+I believe impactful engineering goes beyond writing correct code. It requires understanding the real problem, reasoning about tradeoffs, and communicating solutions clearly to stakeholders with different technical backgrounds.
+
+I’m comfortable working across teams, documenting decisions, and translating complex technical concepts into actionable outcomes.
+
+## Me.Mindset.Jobs.Describe()
+My technical foundation, combined with strong communication skills, allows me to contribute in both **deeply technical roles** (Software Engineer, Site Reliability Engineer, Machine Learning Engineer) and **customer-facing engineering roles** (Customer Engineer, Solutions Engineer, Cloud Architect).
+
+I’m particularly drawn to environments where engineering excellence, reliability, and user impact come together.
 
 ---
 
@@ -48,8 +60,8 @@ I hold a degree in Information Management, specialized in Data Science, Protecti
 
 ### 💫 About Me:
 <p>
-  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  - 🎨 I love art, comics, and manga<br/>
+  <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
+  - 🎨 I love art and comics<br/>
   - 🏀 I love basketball, I am a huge NBA fan<br/>
   - 😜 Fun fact: The human brain has more neural connections than there are stars in the observable universe! Yes, you are amazing 🌌🧠<br/>
 </p>
