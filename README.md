@@ -34,12 +34,17 @@ My academic background spans the following:
 My studies had strong focus on how modern data-driven systems are designed, operated, and protected at scale.
 
 ## Me.WorkStyle.Describe()
-I believe impactful engineering goes beyond writing correct code. It requires the following:
-- Understanding the real problem
-- Reasoning about edge cases and tradeoffs
-- Communicating solutions clearly to stakeholders with different technical backgrounds
+"_If you can't explain it to a six-year-old, you don't understand it yourself._" - **Albert Einstein**  
+"_Everything should be made as simple as possible, but not simpler_" - **Alber Einstein**
 
-I’m comfortable working across teams, documenting decisions, and translating complex technical concepts into actionable outcomes.
+My workstyle lives and dies by these two quotes.
+
+I believe impactful engineering goes beyond writing correct code. It requires the following:
+- Understanding the real problem to the point it can be **explained simply**
+- Reasoning about edge cases and tradeoffs, trying to achieve the **most efficient outcome**
+- Communicating solutions **very clearly** to stakeholders with **different technical backgrounds**
+
+I’m comfortable working across teams, documenting decisions, and turning complex concepts into simple and actionable outcomes.
 
 ## Me.Mindset.Jobs.Describe()
 My technical foundation, combined with strong communication skills, allows me to contribute in both
@@ -51,8 +56,8 @@ My technical foundation, combined with strong communication skills, allows me to
 
 and **Customer-facing engineering roles**:
 - Cloud Architect
-- Customer Engineer
 - Solutions Engineer
+- Customer Engineer
 
 I’m particularly drawn to environments where engineering excellence, reliability, and user impact come together.
 
