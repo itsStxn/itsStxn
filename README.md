@@ -22,17 +22,37 @@
 I’m an IT grad with a strong interest in turning complex problems into practical, reliable solutions.
 
 ## Me.Studies.Describe()
-I hold a degree in Information Management, specialized in "*Data Science, Protection & Security*".
+I hold a degree in **Information Management**, specialized in "*Data Science, Protection & Security*".
 
-My academic background spans **full-stack development**, **machine learning**, **networking**, **data engineering**, and **security**, with a strong focus on how modern systems are designed, operated, and protected at scale.
+My academic background spans the following:
+- **Full-stack development**
+- **Machine learning**
+- **Data engineering**
+- **Networking**
+- **Security**
+
+My studies had strong focus on how modern data-driven systems are designed, operated, and protected at scale.
 
 ## Me.WorkStyle.Describe()
-I believe impactful engineering goes beyond writing correct code. It requires understanding the real problem, reasoning about tradeoffs, and communicating solutions clearly to stakeholders with different technical backgrounds.
+I believe impactful engineering goes beyond writing correct code. It requires the following:
+- Understanding the real problem
+- Reasoning about edge cases and tradeoffs
+- Communicating solutions clearly to stakeholders with different technical backgrounds
 
 I’m comfortable working across teams, documenting decisions, and translating complex technical concepts into actionable outcomes.
 
 ## Me.Mindset.Jobs.Describe()
-My technical foundation, combined with strong communication skills, allows me to contribute in both **deeply technical roles** (Software Engineer, Site Reliability Engineer, Machine Learning Engineer) and **customer-facing engineering roles** (Customer Engineer, Solutions Engineer, Cloud Architect).
+My technical foundation, combined with strong communication skills, allows me to contribute in both
+
+**Deeply technical roles**:
+- Software Engineer
+- Site Reliability Engineer
+- Machine Learning Engineer
+
+and **Customer-facing engineering roles**:
+- Cloud Architect
+- Customer Engineer
+- Solutions Engineer
 
 I’m particularly drawn to environments where engineering excellence, reliability, and user impact come together.
 
@@ -63,5 +83,5 @@ I’m particularly drawn to environments where engineering excellence, reliabili
   <!-- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" /> -->
   - 🎨 I love art and comics<br/>
   - 🏀 I love basketball, I am a huge NBA fan<br/>
-  - 😜 Fun fact: The human brain has more neural connections than there are stars in the observable universe! Yes, you are amazing 🌌🧠<br/>
+  - 😜 Fun fact: The human brain has more neural connections than there are stars in the observable universe! Yes, you are amazing<br/>
 </p>
