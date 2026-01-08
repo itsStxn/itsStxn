@@ -37,7 +37,7 @@ My studies had strong focus on how modern data-driven systems are designed, oper
 "_If you can't explain it to a six-year-old, you don't understand it yourself._" - **Albert Einstein**  
 "_Everything should be made as simple as possible, but not simpler_" - **Alber Einstein**
 
-My workstyle lives and dies by these two quotes.
+Everything about how I work comes down to these two quotes.
 
 I believe impactful engineering goes beyond writing correct code. It requires the following:
 - Understanding the real problem to the point it can be **explained simply**
