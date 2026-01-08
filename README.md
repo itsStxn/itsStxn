@@ -35,7 +35,7 @@ My studies had strong focus on how modern data-driven systems are designed, oper
 
 ## Me.WorkStyle.Describe()
 "_If you can't explain it to a six-year-old, you don't understand it yourself._" - **Albert Einstein**  
-"_Everything should be made as simple as possible, but not simpler_" - **Alber Einstein**
+"_Everything should be made as simple as possible, but not simpler_" - **Albert Einstein**
 
 Everything about how I work comes down to these two quotes.
 
