@@ -47,7 +47,7 @@ I believe impactful engineering goes beyond writing correct code. It requires th
 
 I’m comfortable working across teams, documenting decisions, and turning complex concepts into simple and actionable outcomes.
 
-## Me.Mindset.Jobs.Describe()
+## Me.Preferences.Jobs.Describe()
 My technical foundation, combined with strong communication skills, allows me to contribute in both
 
 **Deeply technical roles**:
