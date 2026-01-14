@@ -51,8 +51,8 @@ I’m comfortable working across teams, documenting decisions, and turning compl
 My technical foundation, combined with effective communication skills, positions me well for both of the following:
 
 **Deeply technical roles**
+- Data Engineer
 - Software Engineer
-- Site Reliability Engineer
 - Machine Learning Engineer
 
 and **Customer-facing engineering roles**
