@@ -48,14 +48,14 @@ I believe impactful engineering goes beyond writing correct code. It requires th
 I’m comfortable working across teams, documenting decisions, and turning complex concepts into simple and actionable outcomes.
 
 ## Me.Preferences.Jobs.Describe()
-My technical foundation, combined with strong communication skills, allows me to contribute in both
+My technical foundation, combined with effective communication skills, positions me well for both of the following:
 
-**Deeply technical roles**:
+**Deeply technical roles**
 - Software Engineer
 - Site Reliability Engineer
 - Machine Learning Engineer
 
-and **Customer-facing engineering roles**:
+and **Customer-facing engineering roles**
 - Cloud Architect
 - Solutions Engineer
 - Customer Engineer
