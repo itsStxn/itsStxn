@@ -13,10 +13,13 @@
 </div>
 
 ## Me.Describe()
-I’m an IT grad with a strong interest in turning complex problems into practical, reliable solutions.
+I’m a developer with a strong interest in turning complex problems into practical, reliable solutions.
+
+## Me.Career.Describe()
+I am currently working full-time at **AWS** as a **software development engineer**.
 
 ## Me.Studies.Describe()
-I hold a degree in **Information Management**, specialized in "*Data Science, Protection & Security*".
+I hold a bachelor's degree in **Information Management**, specialized in "*Data Science, Protection & Security*".
 
 My academic background spans the following:
 - **Full-stack development**
