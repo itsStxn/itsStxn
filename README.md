@@ -15,7 +15,7 @@
 ## Me.Describe()
 I’m a developer with a strong interest in turning complex problems into practical, reliable solutions.
 
-## Me.Career.Describe()
+## Me.Work.Describe()
 I am currently working full-time at **AWS** as a **software development engineer**.
 
 ## Me.Studies.Describe()
@@ -32,7 +32,7 @@ My studies had strong focus on how modern data-driven systems are designed, oper
 
 ---
 
-## Me.TechStack.Show()
+## Me.Tech.Stack.Show()
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
@@ -72,7 +72,7 @@ My studies had strong focus on how modern data-driven systems are designed, oper
 
 ---
 
-## Me.WorkStyle.Describe()
+## Me.Work.Style.Describe()
 "_If you can't explain it to a six-year-old, you don't understand it yourself._" - **Albert Einstein**  
 "_Everything should be made as simple as possible, but not simpler_" - **Albert Einstein**
 
@@ -85,7 +85,7 @@ I believe impactful engineering goes beyond writing correct code. It requires th
 
 I’m comfortable working across teams, documenting decisions, and turning complex concepts into simple and actionable outcomes.
 
-## Me.Preferences.Jobs.Describe()
+## Me.Work.Preference.Describe()
 My technical foundation, combined with effective communication skills, positions me well for both of the following:
 
 **Deeply technical roles**
@@ -100,7 +100,7 @@ and **Customer-facing engineering roles**
 
 I’m particularly drawn to environments where engineering excellence, reliability, and user impact come together.
 
-## Me.About.Describe()
+## Me.Extra.Describe()
 <p>
   - 🎨 I love art and comics<br/>
   - 🏀 I love basketball, I am a huge NBA fan<br/>
